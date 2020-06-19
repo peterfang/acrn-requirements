@@ -229,7 +229,9 @@ textfsm===1.1.0
 python-3parclient===4.2.11
 unittest2===1.1.0
 django-compressor===2.3
-libvirt-python===5.7.0
+libvirt-python===5.10.0;python_version=='2.7'
+libvirt-python===6.1.0;python_version=='3.6'
+libvirt-python===6.1.0;python_version=='3.7'
 python-zunclient===3.5.1
 asyncio===3.4.3;python_version=='3.4'
 asyncio===3.4.3;python_version=='3.5'
